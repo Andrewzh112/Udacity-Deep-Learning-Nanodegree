@@ -4,7 +4,6 @@ Cat_Dog_data/
 *.pt
 data/
 student-admissions/
-project-face-generation/
-project-tv-script-generation/
 reviews.txt
 labels.txt
+*.pkl
